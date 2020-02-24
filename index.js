@@ -47,6 +47,7 @@ console.log(getEmptySquare(5));
         }
         str += '\n';
     }
+
     return str;
 
 }
@@ -66,6 +67,7 @@ const getEmptyTriangle = num => {
         str += '\n';
 
     }
+    
     return str;
 }
 console.log(getEmptyTriangle(5));
@@ -88,11 +90,4 @@ const getEmptyWathc = num => {
 }
  console.log(getEmptyWathc(5));
 
-
-
-
-
-
-
-
-
+ 
